@@ -15,3 +15,4 @@ and blurred targets. Experiments on four MAS benchmarks
 MASAM2 outperforms existing SOTA methods in terms of
 mIoU and MAE with only a 0.16M increase in parameters,
 highlighting the effectiveness of frequency-domain processing for robust underwater segmentation.
+![Logo](https://github.com/yourusername/yourrepository/blob/main/images/logo.png)
